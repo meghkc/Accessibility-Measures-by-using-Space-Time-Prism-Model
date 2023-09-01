@@ -16,6 +16,7 @@
 *.gdb
 *.pyc
 *.bak
+*.xml
 
 # LaTeX side-effect files
 *.aux
