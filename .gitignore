@@ -1,6 +1,17 @@
+Data/
+MyPwoDSTPProject/
+MM_NetworkDataset_03092022/
+.history/
+MM_NetworkDataset_03092022.gdb/
+ServiceArea_Tbig_Tsm/
+PPA/
+PPA_join/
+STP/
+
 # IDE Configuration files/directories
 .vscode
 .idea
+.gdb
 
 *.zip
 .ipynb_checkpoints
@@ -9,11 +20,13 @@
 *.png
 *.swp
 *.xlsx
+*.xml
 *.pdf
 *.txt
 *.prj
 *.docx
-*.gdb
+*.aprx
+*.atbx
 *.pyc
 *.bak
 *.xml
