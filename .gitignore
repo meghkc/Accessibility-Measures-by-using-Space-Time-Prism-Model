@@ -9,6 +9,10 @@ PPA_join/
 STP/
 POI_Utah/
 POI_after_Ser_hr/
+FOS_Count/
+Person_daily_FOS_Count/
+MBG/
+FOS_Count1/
 
 # IDE Configuration files/directories
 .vscode
