@@ -44,4 +44,8 @@ SerArea_Bike/
 *.log
 *.out
 
+# not include output of scripts after running
+*.pyc
+__pycache__/
+
 
