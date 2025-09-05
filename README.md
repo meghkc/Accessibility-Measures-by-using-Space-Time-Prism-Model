@@ -93,7 +93,7 @@ README.md                   # Project documentation
 If you use this code or workflow, please cite:
 ```
 @misc{stpmodel2025,
-  author = {Megha KC},
+  author = {Megh KC},
   title = {Accessibility Measures by using Space Time Prism Model},
   year = {2025},
   url = {https://github.com/meghkc/Accessibility-Measures-by-using-Space-Time-Prism-Model}
@@ -101,7 +101,7 @@ If you use this code or workflow, please cite:
 ```
 
 ## Acknowledgments
-- Developed by Megha KC
+- Developed by Megh KC
 - Built using ArcGIS Pro, Python, and open-source libraries
 - Thanks to the Utah Department of Transportation for data support
 
