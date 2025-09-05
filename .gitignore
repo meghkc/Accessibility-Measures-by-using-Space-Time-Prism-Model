@@ -22,6 +22,17 @@ SerArea_Bike/
 .idea
 .gdb
 
+# GIS and spatial data files
+*.shp
+*.shx
+*.dbf
+*.gdb*
+*.tif
+*.tiff
+
+# Log files
+*.log
+
 *.zip
 .ipynb_checkpoints
 *.csv
